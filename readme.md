@@ -1,5 +1,6 @@
 # 업비트 API를 활용한 자동 매매 프로그램
-![upbit_api](./upbit_api.gif)
+![upbit_api](./graph.png)
+![upbit2_api](./upb.png)
 
 ※ 머신러닝 통한 분석 추가예정
 ***
